@@ -1,2 +1,2 @@
-# OCRL.github.io
+# OCRL
 Optimal Control and Reinforcement Learning resources
